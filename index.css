@@ -1,5 +1,6 @@
 body{
 background-color:#C63D0F;
+font-family:Helvetica;
 
 
 }
@@ -11,7 +12,6 @@ img {
 .wrapper{
   border-style:ridge;
   border-width:thick;
-  font-family:Helvetica;
   border-color:#7D1935;
   border-radius:8px;
   text-align:center;
