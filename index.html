@@ -26,12 +26,19 @@
 said that 40% of those addicted to the Internet suffer from attention deficit hyperactivity disorder.</p>
 
 </div>
+<div class = "container">
 <form action="demo_form.asp">
-First name: <input type="text" name="FirstName" value="Mickey"><br>
-Last name: <input type="text" name="LastName" value="Mouse"><br>
-<input type="submit" value="Submit">
+<input type="text" name="FirstName" id = "textbox" value=textbox><br>
 </form>
+<button onclick = "getNumber()">Submit</button>
+</div>
+<script>
+var textValue = document.getElementById("textbox").value
+function getNumber(){
+alert("ok");
 
+}
+</script>
 </body>
 
 
