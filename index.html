@@ -39,9 +39,10 @@ var textValue = document.getElementById("textbox").value
 function getNumber(){
 
 if(textValue = "204000000"){
+  document.getElementById("textbox").reset();
 alert("You're right! And 70% of the emails sent are spam!");}
 if(textValue != "204000000"){
-
+document.getElementById("textbox").reset();
 alert("Nope! The internet actually sends about 204 million (and 70% of those sent are spam!) ");}
 
 }
