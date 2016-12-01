@@ -8,6 +8,9 @@ img {
     height: auto;
 }
 .wrapper{
+  border-style:ridge;
+  border-width:medium;
+  border-color:#74AFAD;
   text-align:center;
 
 
