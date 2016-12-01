@@ -7,14 +7,11 @@ img {
     width: 100%;
     height: auto;
 }
-@font-face{
-  font-family: "MyWebFont";
-  src:url("YanoneKaffeesatz-Regular.ttf") format("truetype");
-}
+
 .wrapper{
   border-style:ridge;
   border-width:thick;
-  font-family:"MyWebFont";
+  font-family:sans-serif;
   border-color:#7D1935;
   border-radius:8px;
   text-align:center;
