@@ -10,6 +10,12 @@ img {
     width: 100%;
     height: auto;
 }
+.top{
+  position:absolute;
+  top:0px;
+
+
+}
 .wrapper{
   border-style:ridge;
   border-width:thick;
