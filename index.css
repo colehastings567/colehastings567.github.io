@@ -10,17 +10,6 @@ img {
     width: 100%;
     height: auto;
 }
-.top{
-  position: absolute;
-  top:0px;
-  width:100%;
-
-
-}
 .wrapper{
-  border-style:ridge;
-  border-width:thick;
-  border-color:#7D1935;
-  border-radius:8px;
   text-align:center;
 }
