@@ -13,3 +13,7 @@ img {
 .wrapper{
   text-align:center;
 }
+.about:hover{
+  background-color:#571DB8;
+
+}
