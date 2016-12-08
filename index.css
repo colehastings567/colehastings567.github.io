@@ -13,7 +13,9 @@ img {
 .wrapper{
   text-align:center;
 }
-.about:hover{
-  background-color:#571DB8;
+.about{
+  border-style:ridge;
+  border-color:#571DB8;
+
 
 }
