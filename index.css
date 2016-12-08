@@ -7,9 +7,16 @@ margin:0px;
 
 }
 img {
-    width: 100%;
+    width: 75%;
     height: auto;
 }
 .wrapper{
   text-align:center;
+}
+.about:hover{
+  background-color:#571DB8;
+
+
+
+
 }
